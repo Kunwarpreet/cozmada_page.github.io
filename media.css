@@ -1,4 +1,4 @@
-@media only screen and (min-width:1025px){
+/* @media only screen and (min-width:1025px){
     
     .box-2{
         flex-wrap: wrap;
@@ -48,14 +48,14 @@
         border-radius: 20px;
         align-items: center;
         /* flex-direction: column; */
-        width: 220px;
+        /* width: 220px; */
 
-    }
+    /* }
     .newsletter-btn{
         width: 85px;
-    }
+    } */
 
-}
+/* } */ 
 
 @media only screen and (max-width:1024px) {
     .nav-links{
@@ -145,7 +145,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: space-evenly;
-        border-radius: 10px;
+        border-radius: 20px;
         border: 1px solid black;
         width: 150px;
     }
